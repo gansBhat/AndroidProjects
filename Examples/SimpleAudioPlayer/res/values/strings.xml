@@ -19,5 +19,9 @@
     
     <string name="next_activity">Next Activity</string>
     
+    <string name="song_not_selected">Song is not seleted, please select the song</string>
+    <string name="select_song_btn">Select the song</string>
+    
+
 
 </resources>

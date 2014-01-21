@@ -32,4 +32,8 @@ public class Activity1 extends Activity implements OnClickListener {
 			break;
 		}
 	}
+	
+	
+	
+	
 }
